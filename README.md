@@ -20,7 +20,7 @@
 <p> 3)Separate the labels and target variables. </p>
 <p> 4)Fit the model using the logistic regression. </p>
 <p> 5)Generate the pickle file. </p>
-<p> 6)create the app.py file, in which import the pickle file </p>
+<p> 6)create the app.py file,import the pickle file,from user input we predict the output. </p>
 
 <p><b>Result:</b><p>
 <p>We have developed a machine learning model that is hosted on a Flask server. This setup allows users to input data and receive predictions from the model in real-time. </p>
