@@ -24,4 +24,5 @@
 
 <p><b>Result:</b><p>
 <p>We have developed a machine learning model that is hosted on a Flask server. This setup allows users to input data and receive predictions from the model in real-time. </p>
-<p> Video(https://github.com/sachin3098/ML-project-End-to-End-deployment-on-flask/blob/main/video%20recording%20of%20diabetes%20model.webm) </p>
+<p> Video:</p>
+<p>[https://drive.google.com/file/d/1tEsZjXEflimlBESkU9UXuEBSh5Ef7Jyz/view?usp=sharing]</p>
